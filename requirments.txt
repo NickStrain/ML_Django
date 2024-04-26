@@ -6,3 +6,6 @@ scikit-learn
 
 #deployment_side
 django
+djangorestframework
+markdown
+django-filter
